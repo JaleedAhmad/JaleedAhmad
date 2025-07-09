@@ -15,7 +15,7 @@
 🤖 Currently working on:
 - **Sign Language Translator using Accelerometers & Deep Learning**
 - **Real-time Emotion-Based Music Player using CNN + OpenCV**
-- **IoT-based Weather Monitoring System using Flask + Streamlit**
+- **IoT-based Weather Monitoring System using Flask  **
 
 🌱 Exploring: Docker 🐳 | Mistral API 🤖 | Large Language Models (LLMs) 🧠 | Deployment at the Edge 🌐
 
