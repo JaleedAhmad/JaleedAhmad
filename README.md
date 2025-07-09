@@ -1,15 +1,18 @@
 <h1 align="center">Hey there 👋, I'm Jaleed Ahmad</h1>
-<h3 align="center">Final Year CS Student | Embedded AI Enthusiast | Deep Learning + IoT Projects</h3>
+<h3 align="center">Electrical Engineer | Embedded AI & IoT Enthusiast | Deep Learning + Signal Processing</h3>
 
 ---
 
-### 💻 About Me
+### ⚡ About Me
 
-🔬 Final year Computer Science student from Pakistan 🇵🇰  
-🤖 Working on AI-powered IoT systems, embedded vision, and gesture recognition.  
-🎓 FYP: **Sign Language Translator using Accelerometers & Deep Learning**  
-🎵 Built an **Emotion-Based Music Player** using CNN & OpenCV  
-🌱 Currently learning: Docker 🐳, Streamlit, Mistral API, and Advanced AI  
+🎓 Final Year Electrical Engineering student from Pakistan 🇵🇰  
+🔬 Passionate about real-time systems, embedded intelligence, and low-power AI solutions.  
+🤖 Currently working on:
+- **Sign Language Translator using Accelerometers & Deep Learning**
+- **Real-time Emotion-Based Music Player using CNN + OpenCV**
+- **IoT-based Weather Monitoring System using Flask + Streamlit**
+
+🌱 Exploring: Docker 🐳 | Mistral API 🤖 | Deployment at the Edge 🌐  
 
 ---
 
@@ -66,12 +69,12 @@
 
 ---
 
-### 😄 Fun Facts
+### ⚙️ Fun Facts
 
-- 💡 I’m most productive at night 🌙  
-- 🎧 Music keeps me coding for hours  
-- 🧠 I love learning how AI meets real-world embedded systems  
+- 🎯 I bridge hardware and software for real-world AI systems  
+- 🧠 I thrive on solving embedded problems with smart algorithms  
+- 🎧 Music + Coding = Flow state 🔁  
 
 ---
 
-<p align="center">✨ Built with ❤️ by Jaleed Ahmad ✨</p>
+<p align="center">✨ Built with ❤️ by Jaleed Ahmad — Electrical Engineer ✨</p>
