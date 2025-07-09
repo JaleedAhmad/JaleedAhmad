@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/JaleedAhmad/JaleedAhmad/blob/main/jaleed_header.gif?raw=true" alt="header" />
-</p><h1 align="center">Hey there 👋, I'm Jaleed Ahmad</h1>
+  <img src="https://github.com/JaleedAhmad/JaleedAhmad/blob/main/Cat.gif?raw=true" alt="Banner GIF" />
+</p>
+
+<h1 
+      align="center">Hey there 👋, I'm Jaleed Ahmad</h1>
 <h3 align="center">Electrical Engineer | Embedded AI & IoT Enthusiast | Deep Learning + Signal Processing</h3>
 
 ---
