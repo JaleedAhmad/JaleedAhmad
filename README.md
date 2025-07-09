@@ -17,7 +17,8 @@
 - **Real-time Emotion-Based Music Player using CNN + OpenCV**
 - **IoT-based Weather Monitoring System using Flask + Streamlit**
 
-🌱 Exploring: Docker 🐳 | Mistral API 🤖 | Deployment at the Edge 🌐  
+🌱 Exploring: Docker 🐳 | Mistral API 🤖 | Large Language Models (LLMs) 🧠 | Deployment at the Edge 🌐
+
 
 ---
 
