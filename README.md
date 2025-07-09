@@ -5,7 +5,7 @@
 
 ### ⚡ About Me
 
-🎓 Final Year Electrical Engineering student from Pakistan 🇵🇰  
+🎓 Electrical Engineer from Pakistan 🇵🇰  
 🔬 Passionate about real-time systems, embedded intelligence, and low-power AI solutions.  
 🤖 Currently working on:
 - **Sign Language Translator using Accelerometers & Deep Learning**
