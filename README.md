@@ -2,8 +2,7 @@
   <img src="https://github.com/JaleedAhmad/JaleedAhmad/blob/main/Cat.gif?raw=true" alt="Banner GIF" />
 </p>
 
-<h1 
-      align="center">Hey there 👋, I'm Jaleed Ahmad</h1>
+<h1 align="center">Hey there 👋, I'm Jaleed Ahmad</h1>
 <h3 align="center">Electrical Engineer | Embedded AI & IoT Enthusiast | Deep Learning + Signal Processing</h3>
 
 ---
@@ -17,9 +16,7 @@
 - **Real-time Emotion-Based Music Player using CNN + OpenCV**
 - **IoT-based Weather Monitoring System using Flask**
 
-
 🌱 Exploring: Docker 🐳 | Mistral API 🤖 | Large Language Models (LLMs) 🧠 | Deployment at the Edge 🌐
-
 
 ---
 
@@ -36,6 +33,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-7B68EE?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLM-4682B4?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-FF69B4?style=for-the-badge&logo=stabilityai&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -73,10 +74,9 @@
 
 <p align="left">
   <a href="mailto:jaleedahmad12@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/jaleed-ahmad/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/jaleed-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/JaleedAhmad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.kaggle.com/jaleedahmad"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
 ---
