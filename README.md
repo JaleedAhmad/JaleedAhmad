@@ -11,7 +11,7 @@
 
 🎓 Electrical Engineer from Pakistan 🇵🇰  
 🔬 Passionate about real-time systems, embedded intelligence, and low-power AI solutions.  
-🤖 Currently working on:
+🤖 Worked on:
 - **Sign Language Translator using Accelerometers & Deep Learning**
 - **Real-time Emotion-Based Music Player using CNN + OpenCV**
 - **IoT-based Weather Monitoring System using Flask**
