@@ -51,6 +51,31 @@
 
 ---
 
+### 🔬 Featured Projects
+
+🚀 **[Sign Language Translator](https://github.com/JaleedAhmad/Sign-Language-Translator)**  
+Real-time sign language interpretation using MPU6050 sensors and a CNN-LSTM pipeline on Jetson Nano.  
+![Static Badge](https://img.shields.io/badge/Type-Embedded%20AI-blue) ![Static Badge](https://img.shields.io/badge/Platform-Jetson%20Nano-green)
+
+🎧 **[Emotion-Based Music Player](https://github.com/JaleedAhmad/Emotion-Music-Player)**  
+Detects facial expressions with OpenCV + CNN and plays music that matches your mood.  
+![Static Badge](https://img.shields.io/badge/Tech-OpenCV%20%7C%20CNN-orange)
+
+☁️ **[IoT Weather Monitor](https://github.com/JaleedAhmad/IoT-Weather-Monitor)**  
+Flask-based dashboard showing live sensor data from ESP8266.  
+![Static Badge](https://img.shields.io/badge/Tech-IoT%20%7C%20Flask-blueviolet)
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced deployment using **Docker** and **Kubernetes**  
+- Integrating **LLMs + VLMs** for multimodal AI  
+- Building **LangChain-powered AI assistants**  
+- Optimizing **Edge AI inference** on **Jetson Nano**
+
+---
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JaleedAhmad&theme=tokyonight&column=6)](https://github.com/ryo-ma/github-profile-trophy)
@@ -59,8 +84,9 @@
 
 ### 📊 GitHub Stats
 
-![Jaleed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaleedAhmad&show_icons=true&theme=tokyonight)
+[![Jaleed’s GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=JaleedAhmad&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaleedAhmad&layout=compact&theme=tokyonight)
+![Profile views](https://komarev.com/ghpvc/?username=JaleedAhmad&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
 
@@ -72,11 +98,11 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:jaleedahmad12@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jaleed-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/JaleedAhmad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.kaggle.com/jaleedahmad"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<p align="center">
+  <a href="mailto:jaleedahmad12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jaleed-ahmad/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/JaleedAhmad"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.kaggle.com/jaleedahmad"><img src="https://skillicons.dev/icons?i=kaggle" height="40"/></a>
 </p>
 
 ---
