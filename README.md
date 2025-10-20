@@ -62,7 +62,7 @@ Detects facial expressions with OpenCV + CNN and plays music that matches your m
 ![Static Badge](https://img.shields.io/badge/Tech-OpenCV%20%7C%20CNN-orange)
 
 ☁️ **[IoT Weather Monitor](https://github.com/JaleedAhmad/IoT-Weather-Monitor)**  
-Flask-based dashboard showing live sensor data from ESP8266.  
+Flask-based dashboard showing live sensor data from Raspberry pi 4.  
 ![Static Badge](https://img.shields.io/badge/Tech-IoT%20%7C%20Flask-blueviolet)
 
 ---
