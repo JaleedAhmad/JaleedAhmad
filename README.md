@@ -1,84 +1,74 @@
-# Hey there 👋, I'm Jaleed Ahmad
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZDVqZzhpZzdibjdyeXJ6ZHZ6ZHZ6ZHZ6ZHZ6ZHZ6ZHZ6ZHZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4lyFe/giphy.gif" width="400" />
+  <img src="./Cat.gif" width="350" />
 </p>
 
-## AI/ML Engineer | Electrical Engineer | Embedded Systems & IoT
-**Bridging the gap between raw hardware signals and intelligent software systems.**
+<h1 align="center">Jaleed Ahmad</h1>
+<p align="center">
+  <strong>AI/ML Engineer | Bridging Hardware Intelligence with Scalable AI Systems</strong><br>
+  <em>Turning sensors and signals into intelligent, production-ready systems.</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jaleed-ahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jaleedahmad12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🚀 About Me
-I am an AI/ML Engineer and Electrical Engineering graduate with a passion for building end-to-end intelligent systems. My expertise ranges from fine-tuning Large Language Models (LLMs) and architecting scalable RAG pipelines to designing low-latency edge AI solutions for embedded platforms like Jetson Nano and Raspberry Pi.
+I am an AI/ML Engineer and Electrical Engineering graduate from **Namal University**. I focus on the intersection of **Deep Learning**, **NLP**, and **Embedded Systems**. Currently, I'm at **T8 Launchpad**, engineering scalable infrastructure for AI models and architecting context-aware LLM pipelines.
 
-- 🔭 Currently working as a **Trainee AI/ML Engineer** at T8 Launchpad (NASTP Delta).
-- 🧠 Specializing in **Generative AI, Computer Vision, and Signal Processing**.
-- ⚙️ Skilled in deploying models via **Docker, Kubernetes, and AWS (ECS, Lambda, S3)**.
-- ⚡ I thrive on solving complex problems at the intersection of hardware and intelligence.
+- 🔭 **Focus**: Generative AI, RAG Pipelines, Computer Vision.
+- ⚙️ **Stack**: Python, PyTorch, AWS (ECS, Lambda), Docker, Jetson Nano.
+- 🌱 **Learning**: Advanced MLOps and Vision-Language Models (VLMs).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Expertise
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="33%">
-      <strong>AI & Machine Learning</strong><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <strong>Intelligence</strong><br/>
+      PyTorch, LangChain<br/>
+      Gemini, Transformers<br/>
+      OpenCV, NLTK
     </td>
     <td valign="top" width="33%">
-      <strong>Cloud & MLOps</strong><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <strong>Deployment</strong><br/>
+      Docker, AWS ECS<br/>
+      GitHub Actions<br/>
+      Linux, MLOps
     </td>
     <td valign="top" width="33%">
-      <strong>Hardware & IoT</strong><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <strong>Hardware</strong><br/>
+      C++, Embedded C<br/>
+      Jetson Nano, RPi<br/>
+      ESP32, Verilog
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance & Insights
 
-<p align="left">
-<a href="https://github.com/JaleedAhmad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaleedAhmad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaleedAhmad&layout=compact&theme=tokyonight&langs_count=6" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaleedAhmad&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00ff9f&text_color=a0a0a0&bg_color=00000000&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaleedAhmad&layout=compact&theme=transparent&title_color=00d2ff&text_color=a0a0a0&bg_color=00000000&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🔬 Featured Projects
+### 🔬 Featured Work
 
-- [**AI Study Notes Agent**](https://github.com/JaleedAhmad/ai-study-notes-agent)
-  - Multi-user RAG assistant with Gemini 2.5 Flash and flashcard generation.
-- [**ASL Recognition on Edge**](https://github.com/JaleedAhmad/Sign-Language-Translator)
-  - Real-time American Sign Language recognition using MPU6050 & Jetson Nano.
-- [**AI Image Forensics**](https://github.com/JaleedAhmad/ai-image-forensics-app)
-  - End-to-end detector for AI-generated and manipulated media using multimodal vision.
-- [**AuraBeat**](https://github.com/JaleedAhmad/music-recommender)
-  - Context-aware music recommendation based on mood, weather, and location.
+- [**AI Study Notes Agent**](https://github.com/JaleedAhmad/ai-study-notes-agent) – Multi-user RAG assistant with Gemini 2.5 Flash.
+- [**ASL Recognition on Edge**](https://github.com/JaleedAhmad/Sign-Language-Translator) – Real-time ASL recognition on Jetson Nano.
+- [**AI Image Forensics**](https://github.com/JaleedAhmad/ai-image-forensics-app) – Detecting manipulated media with multimodal vision.
+- [**AuraBeat**](https://github.com/JaleedAhmad/music-recommender) – Context-aware music recommendation system.
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/jaleed-ahmad" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jaleedahmad12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  ✨ <em>Built with ❤️ by Jaleed Ahmad — Faisalabad, Pakistan</em> ✨
 </p>
-
-✨ *Built with ❤️ by Jaleed Ahmad — Electrical Engineer & AI Architect* ✨
