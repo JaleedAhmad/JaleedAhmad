@@ -39,6 +39,15 @@ AI/ML Engineer with a BS in Electrical Engineering from **Namal University**. I 
 
 ---
 
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=JaleedAhmad&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00ff9f&text_color=a0a0a0&bg_color=00000000&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=JaleedAhmad&layout=compact&theme=transparent&title_color=00d2ff&text_color=a0a0a0&bg_color=00000000&hide_border=true" height="150" />
+</p>
+
+---
+
 ### 📈 Experience
 *   **Trainee AI/ML & DevOps Engineer** @ T8 Launchpad (Jan 2024 – Present)
 *   **NLP Intern** @ Elevvo (Sep 2025 – Oct 2025)
