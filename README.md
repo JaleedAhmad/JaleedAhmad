@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Cat.gif" width="350" />
+</p>
+
 # Jaleed Ahmad
 **AI/ML Engineer | MLOps & Cloud Infrastructure**
 
