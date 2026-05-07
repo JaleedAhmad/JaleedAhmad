@@ -53,7 +53,7 @@ AI/ML Engineer with a BS in Electrical Engineering from **Namal University**. I 
 ---
 
 ### 📈 Experience
-*   **Trainee AI/ML & DevOps Engineer** @ T8 Launchpad (Jan 2024 – Present)
+*   **Trainee AI/ML & DevOps Engineer** @ T8 Launchpad (Feb 2026 – Present)
 *   **NLP Intern** @ Elevvo (Sep 2025 – Oct 2025)
 *   **IoT Intern** @ Kun Techs (Jul 2024 – Oct 2025)
 
