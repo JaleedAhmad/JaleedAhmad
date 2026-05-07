@@ -1,77 +1,58 @@
-<p align="center">
-  <img src="./Cat.gif" width="350" />
-</p>
+# Jaleed Ahmad
+**AI/ML Engineer | MLOps & Cloud Infrastructure**
 
-<h1 align="center">Jaleed Ahmad</h1>
-<p align="center">
-  <strong>AI/ML Engineer | Generative AI & RAG Architect</strong><br>
-  <em>Specializing in scalable AI infrastructure and the integration of edge intelligence into production systems.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jaleed-ahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jaleedahmad12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/jaleedahmad02"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</p>
+[LinkedIn](https://linkedin.com/in/jaleed-ahmad) • [Email](mailto:jaleedahmad12@gmail.com) • [Credly Credentials](https://www.credly.com/users/jaleed-ahmad/skills) • [Faisalabad, Pakistan]
 
 ---
 
-### 🚀 AI/ML Focus
-I am an AI/ML Engineer with a rigorous foundation in Electrical Engineering from **Namal University**. I bridge the gap between high-level algorithm design and low-level hardware constraints, specializing in **Large Language Models (LLMs)**, **Computer Vision**, and **Retrieval-Augmented Generation (RAG)**.
-
-- 🧠 **Current Role**: Engineering context-aware AI agents and scalable ML infrastructure at **T8 Launchpad**.
-- 🔬 **Expertise**: Fine-tuning Transformers, optimizing RAG pipelines, and deploying multimodal vision models.
-- ⚡ **Mission**: Building "Intelligence at the Edge"—making AI fast, efficient, and accessible everywhere.
+### ⚡ Focus
+AI/ML Engineer with a BS in Electrical Engineering from **Namal University**. I focus on the intersection of **Generative AI** and **Scalable Infrastructure**, specifically operationalizing machine learning workflows (MLOps) and architecting AI-driven applications. Currently integrating cloud services and automating AI pipelines at **T8 Launchpad**.
 
 ---
 
-### 🛠️ Core AI Architecture & Deployment
+### 🛠 Technical Ecosystem
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🤖 Artificial Intelligence</strong><br/>
-      • <strong>LLMs</strong>: LangChain, Gemini, Mistral, OpenAI API<br/>
-      • <strong>DL Frameworks</strong>: PyTorch, TensorFlow, Keras<br/>
-      • <strong>CV</strong>: OpenCV, YOLO, Stable Diffusion<br/>
-      • <strong>NLP</strong>: NLTK, spaCy, Hugging Face Transformers
-    </td>
-    <td valign="top" width="50%">
-      <strong>🌐 MLOps & Infrastructure</strong><br/>
-      • <strong>Cloud</strong>: AWS (ECS, Lambda, S3, DynamoDB)<br/>
-      • <strong>Containerization</strong>: Docker, Kubernetes<br/>
-      • <strong>CI/CD</strong>: GitHub Actions, Jenkins<br/>
-      • <strong>Databases</strong>: ChromaDB, Supabase, PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2" align="center">
-      <strong>📡 Edge Intelligence (The Hardware Bridge)</strong><br/>
-      <em>Jetson Nano • Raspberry Pi • ESP32 • Embedded C++ • Signal Processing</em>
-    </td>
-  </tr>
-</table>
+*   **AI/ML & GenAI:** Vertex AI, Gemini API, RAG Pipelines, Vector Databases (ChromaDB), Prompt Design
+*   **MLOps & Cloud:** GCP (Compute Engine, GKE), AWS (ECS, Lambda, S3), Model Deployment
+*   **Infrastructure & DevOps:** CI/CD (GitHub Actions, Jenkins), Terraform, Docker, Kubernetes
+*   **Monitoring & Observability:** Prometheus, Grafana
+*   **Core Languages:** Python, C++, Bash
 
 ---
 
-### 📊 Performance Metrics
+### 🚀 AI & Infrastructure Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=JaleedAhmad&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00ff9f&text_color=a0a0a0&bg_color=00000000&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=JaleedAhmad&layout=compact&theme=transparent&title_color=00d2ff&text_color=a0a0a0&bg_color=00000000&hide_border=true" height="150" />
-</p>
+#### [Neural Forensics Suite](https://github.com/JaleedAhmad/ai-image-forensics-app)
+**Multimodal AI Deployment | Next.js • FastAPI • Gemini Vision**
+*   Built a system to identify AI-generated and manipulated imagery using Gemini Vision models.
+*   Developed a scalable backend architecture to handle multimodal data processing in real-time.
+
+#### [AI Agent & GenAI Workflows](https://github.com/JaleedAhmad)
+**Autonomous Systems | Agent Development Kit (ADK) • Streamlit**
+*   Engineered AI agents for automated task execution using Google Cloud’s ADK.
+*   Designed and deployed conversational interfaces for LLM-driven applications.
+
+#### [DevOps for ML Mastery](https://github.com/JaleedAhmad/DevOps-Training)
+**System Automation | Terraform • Jenkins • Prometheus**
+*   Automated the lifecycle of high-availability infrastructure to support heavy AI workloads.
+*   Implemented automated monitoring and alerting for production-grade ML environments.
 
 ---
 
-### 🔬 Featured Intelligence Projects
-
-- [**AI Study Notes Agent**](https://github.com/JaleedAhmad/ai-study-notes-agent) – Multi-user RAG assistant with semantic search and automated flashcard generation.
-- [**AI Image Forensics**](https://github.com/JaleedAhmad/ai-image-forensics-app) – Detecting deepfakes and manipulations using multimodal Vision-Language Models.
-- [**ASL Recognition on Edge**](https://github.com/JaleedAhmad/Sign-Language-Translator) – Real-time American Sign Language recognition using CNN + LSTM on Jetson Nano.
-- [**AuraBeat**](https://github.com/JaleedAhmad/music-recommender) – Context-aware music recommendation via Gemini-powered conversational AI.
+### 📈 Experience
+*   **Trainee AI/ML & DevOps Engineer** @ T8 Launchpad (Jan 2024 – Present)
+*   **NLP Intern** @ Elevvo (Sep 2025 – Oct 2025)
+*   **IoT Intern** @ Kun Techs (Jul 2024 – Oct 2025)
 
 ---
 
-<p align="center">
-  ✨ <em>Architecting the future of intelligent systems. — Jaleed Ahmad</em> ✨
-</p>
+### 🏅 Certifications & Skill Badges
+**Google Cloud Professional Sprint (May 2026)**
+*   ☁️ **Build a Website on Google Cloud** (Infrastructure Modernization)
+*   🤖 **Develop GenAI Apps with Gemini and Streamlit**
+*   🛠️ **Engineer AI Agents with Agent Development Kit (ADK)**
+*   🎯 **Prompt Design in Vertex AI**
+*   ✨ **Explore Generative AI with the Vertex AI Gemini API**
+
+---
+*“Engineering the intelligence layer and the systems that sustain it.”*
