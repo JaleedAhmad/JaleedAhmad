@@ -21,11 +21,25 @@ location    : Faisalabad, Pakistan 🇵🇰
 education   : BS Electrical Engineering — Namal University
 current     : Trainee AI/ML & DevOps Engineer @ T8 Launchpad
 focus       : GenAI · Scalable ML Infrastructure · Cloud-Native AI
+open_to     : Full-time roles · AI/ML · MLOps · Remote / Hybrid
 ```
 
 I sit at the intersection of **model building** and **systems engineering** — designing the pipelines, infrastructure, and agents that take AI from prototype to production.
 
 <br clear="right"/>
+
+---
+
+### `> ps aux | grep building`
+
+```bash
+# Currently active — work in progress
+[1]  Upgrading Neural Forensics Suite
+     ↳ expanding detection to video & deepfake audio · adding explainability layer
+
+[2]  AI Music Recommender
+     ↳ rebuilding with LangGraph agent · RAG over user listening history · mood-aware playlist gen
+```
 
 ---
 
@@ -93,6 +107,17 @@ I sit at the intersection of **model building** and **systems engineering** — 
 
 ---
 
+### `> tail -f learning.log`
+
+```
+→  Multi-Agent Orchestration with LangGraph
+→  Building stateful AI agent pipelines & supervisor patterns
+→  LangGraph + ADK hybrid agent architectures
+→  Production deployment of agentic workflows on GCP
+```
+
+---
+
 ### `> cat certifications.txt`
 
 **Google Cloud Professional Sprint — May 2026**
@@ -121,6 +146,18 @@ I sit at the intersection of **model building** and **systems engineering** — 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaleedAhmad&theme=dark&hide_border=true&ring=00D2FF&fire=00FF9F&currStreakLabel=00D2FF&sideLabels=c0c0c0&dates=c0c0c0)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaleedAhmad&theme=react-dark&bg_color=00000000&color=00d2ff&line=00ff9f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JaleedAhmad&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
