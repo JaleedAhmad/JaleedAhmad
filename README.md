@@ -175,6 +175,7 @@ I sit at the intersection of **model building** and **systems engineering** — 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=00d2ff)](https://jaleedahmad.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-00D2FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jaleedahmad.github.io/jaleed-resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaleed-ahmad)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaleedahmad12@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jaleedahmad02)
