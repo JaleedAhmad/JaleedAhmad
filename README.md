@@ -1,3 +1,5 @@
+
+```markdown
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Jaleed+Ahmad;AI%2FML+Engineer+%7C+MLOps+%7C+Cloud;Engineering+Intelligence+%2B+Infrastructure)](https://git.io/typing-svg)
@@ -33,10 +35,7 @@ I sit at the intersection of **model building** and **systems engineering** — 
 
 ```bash
 # Currently active — work in progress
-[1]  Neural Forensics Suite v7.0
-     ↳ expanding to video & deepfake audio · adding 8-stage agentic inspection pipeline
-
-[2]  AuraBeat — AI Music Recommender
+[1]  AuraBeat — AI Music Recommender
      ↳ rebuilding with LangGraph agent · RAG over listening history · mood + weather aware
 ```
 
@@ -92,7 +91,9 @@ I sit at the intersection of **model building** and **systems engineering** — 
 
 | Project | Stack | Description |
 |---|---|---|
-| 🕵️ **[Neural Forensics Suite v6](https://github.com/JaleedAhmad/ai-image-forensics-app)** | `Next.js` `FastAPI` `Gemini` | Agentic 8-stage forensic pipeline detecting AI-generated, manipulated & enhanced imagery |
+| 🎯 **[Sentinel](https://github.com/JaleedAhmad/Sentinel)** | `Python` `FastAPI` `Agents` | Multi-agent adversarial testing framework hardening AI agents against prompt-injection & tool-misuse vulnerabilities · [Live](https://sentinel-398081109917.us-central1.run.app/dashboard) |
+| 🐛 **[AgentBreak](https://github.com/JaleedAhmad/Agentbreak)** | `Python` `LangGraph` `Security` | Workflow-level security scanner tracing every tool-call chain from untrusted input to sensitive action sink, with full exploit proof |
+| 🕵️ **[Neural Forensics Suite v7.0](https://github.com/JaleedAhmad/ai-image-forensics-app)** | `Next.js` `FastAPI` `Gemini` | Agentic multi-stage forensic pipeline detecting AI-generated, manipulated & enhanced imagery |
 | 📚 **[AI Study Notes Agent](https://github.com/JaleedAhmad/ai-study-notes-agent)** | `Streamlit` `LangChain` `Gemini 2.5` `Supabase` | Enterprise-grade multi-user AI study assistant with RAG, search grounding & Antigravity |
 | 🛡️ **[TrafficGuard AI](https://github.com/JaleedAhmad/hackathon-trafficguard)** | `React` `FastAPI` `GCP` | Urban crisis intelligence platform detecting flash floods & traffic blockages in Pakistani cities · [Live](https://trafficguard-frontend-289218709697.asia-south1.run.app/) |
 | 🎵 **[AuraBeat](https://github.com/JaleedAhmad/music-recommender)** | `React` `Gemini` `JS` | AI music curation blending real-time sentiment + weather data for personalized soundscapes · [Live](https://music-recommender-rust.vercel.app/) |
@@ -194,3 +195,4 @@ I sit at the intersection of **model building** and **systems engineering** — 
 ![Profile Views](https://komarev.com/ghpvc/?username=JaleedAhmad&color=00d2ff&style=flat-square&label=profile+views)
 
 </div>
+```
