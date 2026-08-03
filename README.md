@@ -1,6 +1,4 @@
-
-```markdown
-<div align="center">
+div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Jaleed+Ahmad;AI%2FML+Engineer+%7C+MLOps+%7C+Cloud;Engineering+Intelligence+%2B+Infrastructure)](https://git.io/typing-svg)
 
@@ -195,4 +193,3 @@ I sit at the intersection of **model building** and **systems engineering** — 
 ![Profile Views](https://komarev.com/ghpvc/?username=JaleedAhmad&color=00d2ff&style=flat-square&label=profile+views)
 
 </div>
-```
